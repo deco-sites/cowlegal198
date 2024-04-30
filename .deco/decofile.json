@@ -12,7 +12,20 @@
     "links": [],
     "bottomLinks": [],
     "social": [],
-    "subscribe": {}
+    "subscribe": {
+      "title": "Subscribe in the bongo",
+      "description": "Super Bongo needs you",
+      "instructions": "<p></p>"
+    },
+    "logo": {
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8599/d449d424-6afe-4e08-9358-30ca24034fdb",
+      "alt": "bongo"
+    },
+    "madeWith": {
+      "label": "Bongo",
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8599/2f47b767-010f-448d-8afc-9ec0b153b424"
+    },
+    "copyright": "Jorge Lucas Trigo Coronado 2024"
   },
   "Groovy Vibes": {
     "__resolveType": "site/sections/Theme/Theme.tsx",
@@ -315,7 +328,8 @@
             "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8599/579a5943-fbb6-48b9-aee0-c9d6aa02bf30",
             "altText": "boingo"
           }
-        ]
+        ],
+        "title": "Bongo is the third biggest cat in the world!"
       },
       {
         "__resolveType": "site/sections/ImageWithParagraph.tsx",
@@ -323,14 +337,14 @@
         "cta": [
           {
             "style": "Outline",
-            "id": "botaoBoingo",
+            "id": "botaoBongo",
             "href": "https://www.google.com/search?q=boingo+cat&sca_esv=568821e4bd74bee9&sca_upv=1&sxsrf=ACQVn0_Ia9LCd3tClt3no9EmVAP-ScEZeQ%3A1714499455800&ei=fy8xZquJMI2T5OUPx7eA-Ac&udm=&ved=0ahUKEwjrxJ6YwOqFAxWNCbkGHccbAH8Q4dUDCBA&uact=5&oq=boingo+cat&gs_lp=Egxnd3Mtd2l6LXNlcnAiCmJvaW5nbyBjYXQyCBAAGIAEGMsBMgoQLhiABBgKGMsBMggQABiABBjLATIKEAAYFhgKGB4YDzIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yCBAAGIAEGKIESIIKUEBY6QhwA3gBkAEAmAGKAaABiAaqAQMwLja4AQPIAQD4AQGYAgmgArcGwgIKEAAYsAMY1gQYR8ICFRAuGIAEGLADGNEDGEMYxwEYigUYCsICDRAAGIAEGLADGEMYigXCAgUQLhiABMICBxAuGIAEGArCAgUQABiABMICEBAuGIAEGNEDGEMYxwEYigXCAgoQABiABBhDGIoFwgIUEC4YgAQYlwUY3AQY3gQY4ATYAQHCAggQABgWGAoYHpgDAIgGAZAGCroGBggBEAEYFJIHAzMuNqAH-Cg&sclient=gws-wiz-serp",
-            "text": "Search Boingo"
+            "text": "Search Bongo"
           }
         ],
         "title": "Bongo",
         "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8599/db950b45-923a-4a00-b3ac-d2aa58bd0ba4",
-        "tagline": "tag",
+        "tagline": "SuperBongo",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam malesuada purus eu elit pretium, id sodales purus interdum. Aliquam nibh erat, suscipit eu porttitor ac, venenatis et felis. Donec vitae nunc lobortis, molestie erat ac, posuere lectus. Proin ac egestas urna. Integer velit tellus, dignissim non velit nec, dapibus consequat turpis. Quisque risus mi, tincidunt sit amet felis ut, ultrices dapibus sapien. Nam tincidunt tortor mi, nec dapibus nulla sollicitudin vitae. Praesent dignissim eros eu finibus lobortis. Praesent consectetur et nibh elementum volutpat. Nullam ac velit quam."
       },
       {
